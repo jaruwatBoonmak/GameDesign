@@ -20772,4 +20772,3 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked
 ];};
-
